@@ -29,7 +29,7 @@ import java.util.Random;
  */
 public class ParticleLightning extends Particle {
 
-    final public static int DEFAULT_COLOR_OUTER = 0xA929EE;
+    final public static int DEFAULT_COLOR_OUTER = 0xFF7700;
     final public static int DEFAULT_COLOR_INNER = 0xFFFFFF;
     final public static float TICKS_PER_METER = 1F;
 
