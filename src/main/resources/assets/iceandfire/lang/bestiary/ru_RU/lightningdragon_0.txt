@@ -26,8 +26,8 @@
 драгоценными камнями, их
 фавориты — аметисты и бриллианты.
 
-<item><iceandfire:amethyst_gem 100 170 36 1>
-<item><iceandfire:amethyst_ore 100 150 36 1>
+<item><iceandfire:topaz_gem 100 170 36 1>
+<item><iceandfire:topaz_ore 100 150 36 1>
 
 
 

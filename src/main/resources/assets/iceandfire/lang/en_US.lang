@@ -66,9 +66,9 @@ tile.iceandfire.myrmex_jungle_resin_glass.name=Jungle Myrmex Resin Glass
 tile.iceandfire.lightning_lily.name=Lightning Lily
 tile.iceandfire.copperpile.name=Pile of Copper
 tile.iceandfire.copperOre.name=Copper Ore
-tile.iceandfire.amethystOre.name=Amethyst Ore
+tile.iceandfire.topazOre.name=Topaz Ore
 tile.iceandfire.copperBlock.name=Copper Block
-tile.iceandfire.amethystBlock.name=Amethyst Block
+tile.iceandfire.topazBlock.name=Topaz Block
 tile.iceandfire.crackledDirt.name=Crackled Dirt
 tile.iceandfire.crackledGrass.name=Crackled Grass
 tile.iceandfire.crackledStone.name=Crackled Stone
@@ -82,7 +82,7 @@ tile.iceandfire.rubyOre.name=Ruby Ore
 tile.iceandfire.rubyBlock.name=Ruby Block
 
 tile.iceandfire.charedRubyOre.name=Charred Ruby Ore
-tile.iceandfire.crackledAmethystOre.name=Crackled Amethyst Ore
+tile.iceandfire.crackledAmethystOre.name=Crackled Topaz Ore
 tile.iceandfire.frozenSapphireOre.name=Frozen Sapphire Ore
 
 tile.iceandfire.ancient_dragon_bone_block.name=Block of Ancient Dragon Bones
@@ -291,7 +291,7 @@ item.iceandfire.sea_serpent_arrow.desc=Not Inundated by water!
 item.iceandfire.sea_serpent_armor.desc_0=Provides Water Breathing
 item.iceandfire.sea_serpent_armor.desc_1=Provides Strength when wet, increasing levels with full set
 
-item.iceandfire.amethystGem.name=Amethyst
+item.iceandfire.topazGem.name=Topaz
 item.iceandfire.copperIngot.name=Copper Ingot
 item.iceandfire.copperNugget.name=Copper Nugget
 item.iceandfire.bronzeAlloy.name=Bronze Alloy
@@ -795,8 +795,8 @@ dragon.command.sit=This dragon is staying.
 dragon.command.stand=This dragon is wandering.
 dragon.command.new_home=This dragon's home position has been set to %d, %d, %d.
 
-dragon.electric=Electric Blue
-dragon.amethyst=Amethyst
+dragon.gold=Gold
+dragon.topaz=Topaz
 dragon.copper=Copper
 dragon.black=Black
 dragon.lightning=Lightning

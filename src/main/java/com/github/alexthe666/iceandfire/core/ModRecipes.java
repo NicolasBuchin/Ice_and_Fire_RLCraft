@@ -101,12 +101,12 @@ public class ModRecipes {
         OreDictionary.registerOre("nuggetSilver", IafItemRegistry.silverNugget);
         OreDictionary.registerOre("oreSilver", IafBlockRegistry.silverOre);
         OreDictionary.registerOre("blockSilver", IafBlockRegistry.silverBlock);
-        OreDictionary.registerOre("gemAmethyst", IafItemRegistry.amethystGem);
-        OreDictionary.registerOre("oreAmethyst", IafBlockRegistry.amethystOre);
-        OreDictionary.registerOre("blockAmethyst", IafBlockRegistry.amethystBlock);
-        OreDictionary.registerOre("gemRuby", IafItemRegistry.amethystGem);
-        OreDictionary.registerOre("oreRuby", IafBlockRegistry.amethystOre);
-        OreDictionary.registerOre("blockRuby", IafBlockRegistry.amethystBlock);
+        OreDictionary.registerOre("gemAmethyst", IafItemRegistry.topazGem);
+        OreDictionary.registerOre("oreAmethyst", IafBlockRegistry.topazOre);
+        OreDictionary.registerOre("blockAmethyst", IafBlockRegistry.topazBlock);
+        OreDictionary.registerOre("gemRuby", IafItemRegistry.topazGem);
+        OreDictionary.registerOre("oreRuby", IafBlockRegistry.topazOre);
+        OreDictionary.registerOre("blockRuby", IafBlockRegistry.topazBlock);
         OreDictionary.registerOre("gemSapphire", IafItemRegistry.sapphireGem);
         OreDictionary.registerOre("oreSapphire", IafBlockRegistry.sapphireOre);
         OreDictionary.registerOre("blockSapphire", IafBlockRegistry.sapphireBlock);
@@ -179,7 +179,7 @@ public class ModRecipes {
         addBanner("dread", new ItemStack(IafItemRegistry.dread_shard));
         GameRegistry.addSmelting(IafBlockRegistry.copperOre, new ItemStack(IafItemRegistry.copperIngot), 1);
         GameRegistry.addSmelting(IafBlockRegistry.silverOre, new ItemStack(IafItemRegistry.silverIngot), 1);
-        GameRegistry.addSmelting(IafBlockRegistry.amethystOre, new ItemStack(IafItemRegistry.amethystGem), 1);
+        GameRegistry.addSmelting(IafBlockRegistry.topazOre, new ItemStack(IafItemRegistry.topazGem), 1);
         GameRegistry.addSmelting(IafBlockRegistry.sapphireOre, new ItemStack(IafItemRegistry.sapphireGem), 1);
         GameRegistry.addSmelting(IafBlockRegistry.myrmex_desert_resin_block, new ItemStack(IafBlockRegistry.myrmex_desert_resin_glass), 1);
         GameRegistry.addSmelting(IafBlockRegistry.myrmex_jungle_resin_block, new ItemStack(IafBlockRegistry.myrmex_jungle_resin_glass), 1);

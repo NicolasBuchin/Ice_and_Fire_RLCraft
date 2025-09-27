@@ -21,8 +21,8 @@
 电龙也有自己最喜欢的宝石，那就是紫水晶和钻石。
 
 
-<item><iceandfire:amethyst_gem 100 170 16 1>
-<item><iceandfire:amethyst_ore 100 150 16 1>
+<item><iceandfire:topaz_gem 100 170 16 1>
+<item><iceandfire:topaz_ore 100 150 16 1>
 
 
 

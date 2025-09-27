@@ -65,8 +65,8 @@ public class RenderPodium extends TileEntitySpecialRenderer<TileEntityPodium> {
 			case WHITE: return RenderDragonEgg.EGG_WHITE;
 			case SAPPHIRE: return RenderDragonEgg.EGG_SAPPHIRE;
 			case SILVER: return RenderDragonEgg.EGG_SILVER;
-			case ELECTRIC: return RenderDragonEgg.EGG_ELECTRIC;
-			case AMETHYST: return RenderDragonEgg.EGG_AMETHYST;
+			case GOLD: return RenderDragonEgg.EGG_GOLD;
+			case TOPAZ: return RenderDragonEgg.EGG_TOPAZ;
 			case COPPER: return RenderDragonEgg.EGG_COPPER;
 			case BLACK: return RenderDragonEgg.EGG_BLACK;
 		}

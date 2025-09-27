@@ -160,9 +160,9 @@ public class EntityDragonEgg extends EntityLiving implements IBlacklistedFromSta
             case 7:
                 return new ItemStack(IafItemRegistry.dragonegg_silver);
             case 8:
-                return new ItemStack(IafItemRegistry.dragonegg_electric);
+                return new ItemStack(IafItemRegistry.dragonegg_gold);
             case 9:
-                return new ItemStack(IafItemRegistry.dragonegg_amethyst);
+                return new ItemStack(IafItemRegistry.dragonegg_topaz);
             case 10:
                 return new ItemStack(IafItemRegistry.dragonegg_copper);
             case 11:

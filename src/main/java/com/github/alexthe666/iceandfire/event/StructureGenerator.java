@@ -274,14 +274,14 @@ public class StructureGenerator implements IWorldGenerator {
 		if (IceAndFireConfig.WORLDGEN.generateAmethystOre) {
 			if (types.contains(Type.JUNGLE)) {
 				int count = 3 + random.nextInt(6);
-				for (int amethystAmount = 0; amethystAmount < count; amethystAmount++) {
+				for (int topazAmount = 0; topazAmount < count; topazAmount++) {
 					int oreHeight = random.nextInt(28) + 4;
 					int xOre = (chunkX * 16) + random.nextInt(16);
 					int zOre = (chunkZ * 16) + random.nextInt(16);
 					BlockPos pos = new BlockPos(xOre, oreHeight, zOre);
 					IBlockState state = world.getBlockState(pos);
 					if (state.getBlock().isReplaceableOreGen(state, world, pos, BlockMatcher.forBlock(Blocks.STONE))) {
-						world.setBlockState(pos, IafBlockRegistry.amethystOre.getDefaultState(), 2);
+						world.setBlockState(pos, IafBlockRegistry.topazOre.getDefaultState(), 2);
 					}
 				}
 			}

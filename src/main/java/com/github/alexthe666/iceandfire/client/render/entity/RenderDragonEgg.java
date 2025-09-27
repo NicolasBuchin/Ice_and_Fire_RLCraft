@@ -19,8 +19,8 @@ public class RenderDragonEgg extends RenderLiving<EntityDragonEgg> {
 	public static final ResourceLocation EGG_WHITE = new ResourceLocation("iceandfire:textures/models/icedragon/egg_white.png");
 	public static final ResourceLocation EGG_SAPPHIRE = new ResourceLocation("iceandfire:textures/models/icedragon/egg_sapphire.png");
 	public static final ResourceLocation EGG_SILVER = new ResourceLocation("iceandfire:textures/models/icedragon/egg_silver.png");
-	public static final ResourceLocation EGG_ELECTRIC = new ResourceLocation("iceandfire:textures/models/lightningdragon/egg_electric.png");
-	public static final ResourceLocation EGG_AMETHYST = new ResourceLocation("iceandfire:textures/models/lightningdragon/egg_amethyst.png");
+	public static final ResourceLocation EGG_GOLD = new ResourceLocation("iceandfire:textures/models/lightningdragon/egg_gold.png");
+	public static final ResourceLocation EGG_TOPAZ = new ResourceLocation("iceandfire:textures/models/lightningdragon/egg_topaz.png");
 	public static final ResourceLocation EGG_COPPER = new ResourceLocation("iceandfire:textures/models/lightningdragon/egg_copper.png");
 	public static final ResourceLocation EGG_BLACK = new ResourceLocation("iceandfire:textures/models/lightningdragon/egg_black.png");
 
@@ -39,8 +39,8 @@ public class RenderDragonEgg extends RenderLiving<EntityDragonEgg> {
 			case WHITE: return EGG_WHITE;
 			case SAPPHIRE: return EGG_SAPPHIRE;
 			case SILVER: return EGG_SILVER;
-			case ELECTRIC: return EGG_ELECTRIC;
-			case AMETHYST: return EGG_AMETHYST;
+			case GOLD: return EGG_GOLD;
+			case TOPAZ: return EGG_TOPAZ;
 			case COPPER: return EGG_COPPER;
 			case BLACK: return EGG_BLACK;
 		}

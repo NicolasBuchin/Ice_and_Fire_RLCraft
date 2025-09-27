@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "SSS",
+    "S S"
+  ],
+  "key": {
+    "S": {
+      "item": "iceandfire:dragonscales_topaz",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "iceandfire:armor_topaz_helmet",
+    "data": 0
+  }
+}

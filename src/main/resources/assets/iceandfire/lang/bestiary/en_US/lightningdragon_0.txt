@@ -23,14 +23,14 @@ of crackled blocks that have been
 struck by lightning. Like how ice
 and fire dragons have affinities for
 certain gemstones, lightning dragons
-love amethysts and diamonds.
+love topazs and diamonds.
 
 
-<item><iceandfire:amethyst_gem 100 170 31 1>
-<item><iceandfire:amethyst_ore 100 150 31 1>
+<item><iceandfire:topaz_gem 100 170 31 1>
+<item><iceandfire:topaz_ore 100 150 31 1>
 
 
-Amethyst occurs deep underground
+Topaz occurs deep underground
 in jungles.
 
 In addition to being found in jungles,

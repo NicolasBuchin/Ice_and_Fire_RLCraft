@@ -16,12 +16,12 @@ public class ModBlocks {
 	public static Block goldPile = IafBlockRegistry.goldPile;
 	public static Block silverPile = IafBlockRegistry.silverPile;
 	public static Block diamondPile = IafBlockRegistry.diamondPile;
-	public static Block amethystOre = IafBlockRegistry.amethystOre;
+	public static Block topazOre = IafBlockRegistry.topazOre;
 	public static Block copperOre = IafBlockRegistry.copperOre;
 	public static Block rubyOre = IafBlockRegistry.rubyOre;
 	public static Block silverOre = IafBlockRegistry.silverOre;
 	public static Block sapphireOre = IafBlockRegistry.sapphireOre;
-	public static Block amethystBlock = IafBlockRegistry.amethystBlock;
+	public static Block topazBlock = IafBlockRegistry.topazBlock;
 	public static Block copperBlock = IafBlockRegistry.copperBlock;
 	public static Block silverBlock = IafBlockRegistry.silverBlock;
 	public static Block rubyBlock = IafBlockRegistry.rubyBlock;

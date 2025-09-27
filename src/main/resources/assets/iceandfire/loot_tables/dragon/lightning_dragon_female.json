@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "item",
-          "name": "iceandfire:dragonscales_electric",
+          "name": "iceandfire:dragonscales_gold",
           "weight": 60,
           "functions": [
             {
@@ -41,7 +41,7 @@
         },
         {
           "type": "item",
-          "name": "iceandfire:dragonegg_electric",
+          "name": "iceandfire:dragonegg_gold",
           "weight": 2,
           "functions": [
             {

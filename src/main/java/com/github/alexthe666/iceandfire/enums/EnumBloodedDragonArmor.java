@@ -20,8 +20,8 @@ public enum EnumBloodedDragonArmor {
 	armor_white(EnumDragonEgg.WHITE),
 	armor_sapphire(EnumDragonEgg.SAPPHIRE),
 	armor_silver(EnumDragonEgg.SILVER),
-	armor_electric(EnumDragonEgg.ELECTRIC),
-	armor_amethyst(EnumDragonEgg.AMETHYST),
+	armor_gold(EnumDragonEgg.GOLD),
+	armor_topaz(EnumDragonEgg.TOPAZ),
 	armor_copper(EnumDragonEgg.COPPER),
 	armor_black(EnumDragonEgg.BLACK);
 
@@ -97,10 +97,10 @@ public enum EnumBloodedDragonArmor {
 				return IafItemRegistry.dragonscales_sapphire;
 			case armor_silver:
 				return IafItemRegistry.dragonscales_silver;
-			case armor_electric:
-				return IafItemRegistry.dragonscales_electric;
-			case armor_amethyst:
-				return IafItemRegistry.dragonscales_amethyst;
+			case armor_gold:
+				return IafItemRegistry.dragonscales_gold;
+			case armor_topaz:
+				return IafItemRegistry.dragonscales_topaz;
 			case armor_copper:
 				return IafItemRegistry.dragonscales_copper;
 			case armor_black:

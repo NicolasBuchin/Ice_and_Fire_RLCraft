@@ -26,8 +26,8 @@ ciertas gemas. Los dragones de
 rayo aman las Amatistas y los
 Diamantes.
 
-<item><iceandfire:amethyst_gem 100 170 36 1>
-<item><iceandfire:amethyst_ore 100 150 36 1>
+<item><iceandfire:topaz_gem 100 170 36 1>
+<item><iceandfire:topaz_ore 100 150 36 1>
 
 
 
@@ -40,5 +40,5 @@ de rayo en otros biomas: en la
 cima de altas Montanias, en
 caniones profundos, en Paramos
 e incluso durante tormentas
-electricas. Sin embargo, dichos
+goldas. Sin embargo, dichos
 informes no han sido confirmados.

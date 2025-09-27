@@ -8,7 +8,7 @@ import java.util.Map;
 public enum EnumDragonEgg {
     RED(0, TextFormatting.DARK_RED, EnumDragonType.FIRE), GREEN(1, TextFormatting.DARK_GREEN, EnumDragonType.FIRE), BRONZE(2, TextFormatting.GOLD, EnumDragonType.FIRE), GRAY(3, TextFormatting.GRAY, EnumDragonType.FIRE),
     BLUE(4, TextFormatting.AQUA, EnumDragonType.ICE), WHITE(5, TextFormatting.WHITE, EnumDragonType.ICE), SAPPHIRE(6, TextFormatting.BLUE, EnumDragonType.ICE), SILVER(7, TextFormatting.DARK_GRAY, EnumDragonType.ICE),
-    ELECTRIC(8, TextFormatting.DARK_BLUE, EnumDragonType.LIGHTNING), AMETHYST(9, TextFormatting.LIGHT_PURPLE, EnumDragonType.LIGHTNING), COPPER(10, TextFormatting.GOLD, EnumDragonType.LIGHTNING),
+    GOLD(8, TextFormatting.GOLD, EnumDragonType.LIGHTNING), TOPAZ(9, TextFormatting.YELLOW, EnumDragonType.LIGHTNING), COPPER(10, TextFormatting.GOLD, EnumDragonType.LIGHTNING),
     BLACK(11, TextFormatting.DARK_GRAY, EnumDragonType.LIGHTNING);
 
     private static final Map<Integer, EnumDragonEgg> META_LOOKUP = Maps.newHashMap();

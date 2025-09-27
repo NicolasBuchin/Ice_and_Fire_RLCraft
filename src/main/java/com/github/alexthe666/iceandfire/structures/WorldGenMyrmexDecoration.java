@@ -198,7 +198,7 @@ public class WorldGenMyrmexDecoration {
                     } else if (chance == 2 && IceAndFireConfig.WORLDGEN.generateSapphireOre) {
                         ore = IafBlockRegistry.sapphireOre;
                     } else if (chance == 3 && IceAndFireConfig.WORLDGEN.generateAmethystOre) {
-                        ore = IafBlockRegistry.amethystOre;
+                        ore = IafBlockRegistry.topazOre;
                     } else {
                         ore = Blocks.EMERALD_ORE;
                     }

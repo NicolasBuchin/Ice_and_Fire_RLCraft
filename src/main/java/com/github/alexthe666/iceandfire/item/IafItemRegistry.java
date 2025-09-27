@@ -44,8 +44,8 @@ public class IafItemRegistry {
 	public static Item bestiary = new ItemBestiary();
 	@GameRegistry.ObjectHolder(IceAndFire.MODID + ":manuscript")
 	public static Item manuscript = new ItemGeneric("manuscript", "iceandfire.manuscript");
-	@GameRegistry.ObjectHolder(IceAndFire.MODID + ":amethyst_gem")
-	public static Item amethystGem = new ItemGeneric("amethyst_gem", "iceandfire.amethystGem");
+	@GameRegistry.ObjectHolder(IceAndFire.MODID + ":topaz_gem")
+	public static Item topazGem = new ItemGeneric("topaz_gem", "iceandfire.topazGem");
 	@GameRegistry.ObjectHolder(IceAndFire.MODID + ":ruby_gem")
 	public static Item rubyGem = new ItemGeneric("ruby_gem", "iceandfire.rubyGem");
 	@GameRegistry.ObjectHolder(IceAndFire.MODID + ":sapphire_gem")
@@ -118,10 +118,10 @@ public class IafItemRegistry {
 	public static Item dragonegg_sapphire = new ItemDragonEgg("dragonegg_sapphire", EnumDragonEgg.SAPPHIRE);
 	@GameRegistry.ObjectHolder(IceAndFire.MODID + ":dragonegg_silver")
 	public static Item dragonegg_silver = new ItemDragonEgg("dragonegg_silver", EnumDragonEgg.SILVER);
-	@GameRegistry.ObjectHolder(IceAndFire.MODID + ":dragonegg_electric")
-	public static Item dragonegg_electric = new ItemDragonEgg("dragonegg_electric", EnumDragonEgg.ELECTRIC);
-	@GameRegistry.ObjectHolder(IceAndFire.MODID + ":dragonegg_amethyst")
-	public static Item dragonegg_amethyst = new ItemDragonEgg("dragonegg_amethyst", EnumDragonEgg.AMETHYST);
+	@GameRegistry.ObjectHolder(IceAndFire.MODID + ":dragonegg_gold")
+	public static Item dragonegg_gold = new ItemDragonEgg("dragonegg_gold", EnumDragonEgg.GOLD);
+	@GameRegistry.ObjectHolder(IceAndFire.MODID + ":dragonegg_topaz")
+	public static Item dragonegg_topaz = new ItemDragonEgg("dragonegg_topaz", EnumDragonEgg.TOPAZ);
 	@GameRegistry.ObjectHolder(IceAndFire.MODID + ":dragonegg_copper")
 	public static Item dragonegg_copper = new ItemDragonEgg("dragonegg_copper", EnumDragonEgg.COPPER);
 	@GameRegistry.ObjectHolder(IceAndFire.MODID + ":dragonegg_black")
@@ -142,10 +142,10 @@ public class IafItemRegistry {
 	public static Item dragonscales_sapphire = new ItemDragonScales("dragonscales_sapphire", EnumDragonEgg.SAPPHIRE);
 	@GameRegistry.ObjectHolder(IceAndFire.MODID + ":dragonscales_silver")
 	public static Item dragonscales_silver = new ItemDragonScales("dragonscales_silver", EnumDragonEgg.SILVER);
-	@GameRegistry.ObjectHolder(IceAndFire.MODID + ":dragonscales_electric")
-	public static Item dragonscales_electric = new ItemDragonScales("dragonscales_electric", EnumDragonEgg.ELECTRIC);
-	@GameRegistry.ObjectHolder(IceAndFire.MODID + ":dragonscales_amethyst")
-	public static Item dragonscales_amethyst = new ItemDragonScales("dragonscales_amethyst", EnumDragonEgg.AMETHYST);
+	@GameRegistry.ObjectHolder(IceAndFire.MODID + ":dragonscales_gold")
+	public static Item dragonscales_gold = new ItemDragonScales("dragonscales_gold", EnumDragonEgg.GOLD);
+	@GameRegistry.ObjectHolder(IceAndFire.MODID + ":dragonscales_topaz")
+	public static Item dragonscales_topaz = new ItemDragonScales("dragonscales_topaz", EnumDragonEgg.TOPAZ);
 	@GameRegistry.ObjectHolder(IceAndFire.MODID + ":dragonscales_copper")
 	public static Item dragonscales_copper = new ItemDragonScales("dragonscales_copper", EnumDragonEgg.COPPER);
 	@GameRegistry.ObjectHolder(IceAndFire.MODID + ":dragonscales_black")

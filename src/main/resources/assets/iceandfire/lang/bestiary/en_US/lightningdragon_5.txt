@@ -24,9 +24,9 @@ Such as: lightning dragon scale armor,
 blood bottles, and more.
 
 
-<item><iceandfire:dragonscales_amethyst 100 120 40 1>
-<item><iceandfire:armor_amethyst_helmet 100 140 30 1>
-<item><iceandfire:armor_amethyst_chestplate 100 160 40 1>
+<item><iceandfire:dragonscales_topaz 100 120 40 1>
+<item><iceandfire:armor_topaz_helmet 100 140 30 1>
+<item><iceandfire:armor_topaz_chestplate 100 160 40 1>
 
 <item><iceandfire:lightning_dragon_heart 100 140 50 1>
 

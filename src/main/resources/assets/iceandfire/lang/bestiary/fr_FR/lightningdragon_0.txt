@@ -23,8 +23,8 @@ souterraines remplies de blocs
 craquelés qui ont été frappés par la 
 foudre. Comme les dragons de glace 
 et de feu ils ont des affinités pour 
-<item><iceandfire:amethyst_gem 100 170 31 1>
-<item><iceandfire:amethyst_ore 100 150 31 1>
+<item><iceandfire:topaz_gem 100 170 31 1>
+<item><iceandfire:topaz_ore 100 150 31 1>
 certaines pierres 
 précieuses, le 
 dragon électrique 

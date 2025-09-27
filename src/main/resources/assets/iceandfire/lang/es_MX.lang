@@ -67,9 +67,9 @@ tile.iceandfire.myrmex_jungle_resin_glass.name=Vidrio de resina de Mirmex de sel
 tile.iceandfire.lightning_lily.name=Lirio de rayo
 tile.iceandfire.copperpile.name=Pila de cobre
 tile.iceandfire.copperOre.name=Mineral de cobre
-tile.iceandfire.amethystOre.name=Mineral de amatista
+tile.iceandfire.topazOre.name=Mineral de amatista
 tile.iceandfire.copperBlock.name=Bloque de cobre
-tile.iceandfire.amethystBlock.name=Bloque de amatista
+tile.iceandfire.topazBlock.name=Bloque de amatista
 tile.iceandfire.crackledDirt.name=Tierra agrietada
 tile.iceandfire.crackledGrass.name=Pasto agrietado
 tile.iceandfire.crackledStone.name=Piedra agrietada
@@ -280,7 +280,7 @@ item.iceandfire.sea_serpent_arrow.desc=No se inunda con el agua!
 item.iceandfire.sea_serpent_armor.desc_0=§6Da Respiracion§r
 item.iceandfire.sea_serpent_armor.desc_1=§2Da Fuerza cuando te mojas, aumentando su nivel con cada pieza de armadura§r
 
-item.iceandfire.amethystGem.name=Amatista
+item.iceandfire.topazGem.name=Amatista
 item.iceandfire.copperIngot.name=Lingote de cobre
 item.iceandfire.copperNugget.name=Pepita de cobre
 item.iceandfire.bronzeAlloy.name=Aleacion de bronce
@@ -294,7 +294,7 @@ item.iceandfire.copper_axe.name=Hacha de cobre
 item.iceandfire.copper_shovel.name=Pala de cobre
 item.iceandfire.copper_hoe.name=Azada de cobre
 item.iceandfire.lightning_stew.name=Sopa de lirio de rayo
-item.iceandfire.dragonbone_sword_lightning.name=Espada de Dragon electrica
+item.iceandfire.dragonbone_sword_lightning.name=Espada de Dragon golda
 item.iceandfire.dragonarmor_copper.name=Armadura de cobre para dragon
 item.iceandfire.dragonarmor_silver.name=Armadura de plata para dragon
 item.iceandfire.lightning_dragon_flesh.name=Carne de Dragon de rayo
@@ -362,11 +362,11 @@ item.iceandfire.ghost_ingot.desc_0=§6Drop raro§r
 
 item.iceandfire.dragonbone_arrow_fire.name=Flecha de Dragon flameante
 item.iceandfire.dragonbone_arrow_ice.name=Flecha de Dragon gelida
-item.iceandfire.dragonbone_arrow_lightning.name=Flecha de Dragon electrica
+item.iceandfire.dragonbone_arrow_lightning.name=Flecha de Dragon golda
 
 item.iceandfire.dragonbone_bow_fire.name=Arco de Dragon flameante
 item.iceandfire.dragonbone_bow_ice.name=Arco de Dragon gelida
-item.iceandfire.dragonbone_bow_lightning.name=Arco de Dragon electrica
+item.iceandfire.dragonbone_bow_lightning.name=Arco de Dragon golda
 
 item.iceandfire.dragon_collar.name=Collar de dragon
 
@@ -786,8 +786,8 @@ dragon.command.sit=Este Dragon esta quieto.
 dragon.command.stand=Este Dragon esta merodeando.
 dragon.command.new_home=El hogar de este Dragon se ha asignado en %d, %d, %d.
 
-dragon.electric=Azul §5Rayo§1
-dragon.amethyst=§5Amatista Rayo
+dragon.gold=Azul §5Rayo§1
+dragon.topaz=§5Amatista Rayo
 dragon.copper=Cobre §5Rayo§6
 dragon.black=Negro §5Rayo§8
 dragon.lightning=§5Rayo

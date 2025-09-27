@@ -451,7 +451,7 @@ public class GuiBestiary extends GuiScreen {
 					Item blood = IafItemRegistry.fire_dragon_blood;
 					if (frame >= 40) {
 						summoningCrystal = IafItemRegistry.summoning_crystal_lightning;
-						gem = IafItemRegistry.amethystGem;
+						gem = IafItemRegistry.topazGem;
 						blood = IafItemRegistry.lightning_dragon_blood;
 					} else if (frame >= 20) {
 						summoningCrystal = IafItemRegistry.summoning_crystal_ice;

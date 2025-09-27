@@ -53,9 +53,9 @@ public class IceAndFireJEIPlugin implements IModPlugin {
         addDescription(registry, new ItemStack(IafItemRegistry.dragonegg_white));
         addDescription(registry, new ItemStack(IafItemRegistry.dragonegg_sapphire));
         addDescription(registry, new ItemStack(IafItemRegistry.dragonegg_silver));
-        addDescription(registry, new ItemStack(IafItemRegistry.dragonegg_amethyst));
+        addDescription(registry, new ItemStack(IafItemRegistry.dragonegg_topaz));
         addDescription(registry, new ItemStack(IafItemRegistry.dragonegg_copper));
-        addDescription(registry, new ItemStack(IafItemRegistry.dragonegg_electric));
+        addDescription(registry, new ItemStack(IafItemRegistry.dragonegg_gold));
         addDescription(registry, new ItemStack(IafItemRegistry.dragonegg_black));
         addDescription(registry, new ItemStack(IafItemRegistry.dragon_skull));
         addDescription(registry, new ItemStack(IafItemRegistry.dragon_skull, 1, 1));

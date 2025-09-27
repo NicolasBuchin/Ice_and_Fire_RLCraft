@@ -9,7 +9,7 @@ lanzar rayos debiles y hacer un
 poco de danio.
 El desarrollo mas notable de la
 tercera etapa es ganar el ataque
-de bola de electricidad, el cual
+de bola de goldidad, el cual
 inflige un gran danio.
 
 Los dragones de etapa 3 se

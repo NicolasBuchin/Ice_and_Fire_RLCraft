@@ -34,7 +34,7 @@ public class ModItems {
 
     public static Item bestiary = IafItemRegistry.bestiary;
     public static Item manuscript = IafItemRegistry.manuscript;
-    public static Item amethystGem = IafItemRegistry.amethystGem;
+    public static Item topazGem = IafItemRegistry.topazGem;
     public static Item rubyGem = IafItemRegistry.rubyGem;
     public static Item sapphireGem = IafItemRegistry.sapphireGem;
     public static Item bronzeAlloy = IafItemRegistry.bronzeAlloy;
@@ -71,8 +71,8 @@ public class ModItems {
     public static Item dragonegg_white = IafItemRegistry.dragonegg_white;
     public static Item dragonegg_sapphire = IafItemRegistry.dragonegg_sapphire;
     public static Item dragonegg_silver = IafItemRegistry.dragonegg_silver;
-    public static Item dragonegg_electric = IafItemRegistry.dragonegg_electric;
-    public static Item dragonegg_amethyst = IafItemRegistry.dragonegg_amethyst;
+    public static Item dragonegg_gold = IafItemRegistry.dragonegg_gold;
+    public static Item dragonegg_topaz = IafItemRegistry.dragonegg_topaz;
     public static Item dragonegg_copper = IafItemRegistry.dragonegg_copper;
     public static Item dragonegg_black = IafItemRegistry.dragonegg_black;
     public static Item dragonscales_red = IafItemRegistry.dragonscales_red;
@@ -83,8 +83,8 @@ public class ModItems {
     public static Item dragonscales_white = IafItemRegistry.dragonscales_white;
     public static Item dragonscales_sapphire = IafItemRegistry.dragonscales_sapphire;
     public static Item dragonscales_silver = IafItemRegistry.dragonscales_silver;
-    public static Item dragonscales_electric = IafItemRegistry.dragonscales_electric;
-    public static Item dragonscales_amethyst = IafItemRegistry.dragonscales_amethyst;
+    public static Item dragonscales_gold = IafItemRegistry.dragonscales_gold;
+    public static Item dragonscales_topaz = IafItemRegistry.dragonscales_topaz;
     public static Item dragonscales_copper = IafItemRegistry.dragonscales_copper;
     public static Item dragonscales_black = IafItemRegistry.dragonscales_black;
     public static Item dragonbone = IafItemRegistry.dragonbone;
